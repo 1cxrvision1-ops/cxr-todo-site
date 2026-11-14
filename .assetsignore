@@ -1,0 +1,7 @@
+# Ce NU se publica pe site, desi sta in repo-ul public langa el
+# (11 noiembrie 2026: prima publicare a urcat si dosarul .git).
+.git
+.wrangler
+.assetsignore
+wrangler.jsonc
+node_modules

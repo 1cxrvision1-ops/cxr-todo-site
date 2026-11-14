@@ -1,0 +1,17 @@
+// Site-ul pe Cloudflare Workers (fisiere statice, gratuit, cereri netaxate).
+// scripts/site-github.sh il pune langa site-ul construit, in repo-ul public.
+// Comanda de publicare din Cloudflare ramane cea pusa de Kaizen pe 11
+// noiembrie 2026: npx wrangler deploy --assets=. --name=cxr-todo-site
+// --compatibility-date=2026-01-01 (ce e in comanda bate ce e aici).
+{
+  "name": "cxr-todo-site",
+  "compatibility_date": "2026-01-01",
+  "workers_dev": true,
+  // Fara adrese de previzualizare pentru versiunile vechi.
+  "preview_urls": false,
+  "assets": {
+    "directory": ".",
+    // Adresa necunoscuta: pagina 404 a site-ului, cu codul 404.
+    "not_found_handling": "404-page"
+  }
+}

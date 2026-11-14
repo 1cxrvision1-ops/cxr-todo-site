@@ -1,0 +1,858 @@
+2:I[9781,["397","static/chunks/397-d0f1bae93c710a10.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","601","static/chunks/app/confidentialitate/page-c71365b2b0370d98.js"],"PrivacyBody"]
+5:I[5092,[],""]
+6:I[2023,[],""]
+8:I[3027,["397","static/chunks/397-d0f1bae93c710a10.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","424","static/chunks/app/error-eb25b8932273995e.js"],"default"]
+9:I[3391,["397","static/chunks/397-d0f1bae93c710a10.js","146","static/chunks/146-f8f9a6ddd9ac3797.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","160","static/chunks/app/not-found-3e5b828f5f8a5459.js"],"NotFoundBody"]
+a:I[3933,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"SiteFooter"]
+b:I[9344,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"DownloadAppButton"]
+c:I[6902,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"SkipNavigation"]
+e:I[9924,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"WebVitalsReporter"]
+f:I[794,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"PWAHost"]
+10:I[3442,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"SessionWatcher"]
+11:I[7824,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"ObserveRoutes"]
+12:I[2834,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"ToastHost"]
+13:I[1364,["93","static/chunks/75504863-752218d3ecc65f4a.js","397","static/chunks/397-d0f1bae93c710a10.js","507","static/chunks/507-2599f6d4cd7a96ec.js","174","static/chunks/174-bd4bff7eb1832329.js","549","static/chunks/549-5296ee9e69b4199d.js","914","static/chunks/914-6a14ab4c0f3e3391.js","185","static/chunks/app/layout-ffcf7fc554833e68.js"],"LangHost"]
+3:T545e,# Politica de confidențialitate — CXR TO DO
+
+**Ultima actualizare:** 13 noiembrie 2026
+**Operator:** CXR VISION S.R.L., CUI 52775956, Nr. Reg. Com. J2025082033009,
+sediul în Str. Pitar Moș nr. 27, Sector 1, București, cod 010452, România
+**Contact:** 1cxr.vision1@gmail.com
+
+> Textul descrie exact ce face aplicația azi: lista datelor e scoasă din
+> baza de date și din cod, nu scrisă din memorie. Nu a fost încă revizuit
+> de un jurist.
+
+---
+
+## Ce date colectăm
+
+### Date pe care ni le dai tu
+
+| Dată | Unde | De ce |
+|---|---|---|
+| Adresă de email | `profiles` | autentificare, recuperarea contului |
+| Nume | `profiles` | afișare în aplicație |
+| Confirmarea vârstei (doar momentul, nu vârsta) | `profiles` | aplicația e doar pentru adulți |
+| Rutine (nume, descrieri, zi de început, oră) | `routines` | funcția principală |
+| Task-uri (titlu, descriere, zi, oră) | `tasks` | funcția principală |
+| Dovezile scrise la bifare, verificările ulterioare, retragerile și declarațiile „n-am făcut azi" | `verifications` | jurnalul declarațiilor: ce ai spus că ai făcut |
+| De ce folosești aplicația, sacrificiul fiecărei săptămâni, explicațiile pentru zilele tăcute, ce schimbi după o săptămână neținută, prețul pus pentru o săptămână neținută, motivul renunțării la un task | `verifications` | jurnalul declarațiilor: ce ți-ai asumat și cum ai explicat |
+| Sub observație: contractul de la intrare și răspunsul la el la ieșire, de ce-ul fiecărei zile, bilanțul săptămânal semnat cu numele tău | `verifications` | jurnalul declarațiilor: ce ți-ai asumat sub observație |
+| Ora la care se termină ziua ta, ziua de la care se aplică și când ai schimbat-o | `profiles` | ca bifele de după miezul nopții să intre în ziua aleasă de tine |
+| Martorul: numele sub care te vede (ales de tine), când ai creat și când ai oprit linkul | `martori` | linkul doar de citit pentru un om ales de tine (mai jos) |
+| Dovezile respinse pe care le trimiți la verificare („Respingerea e greșită”) | `contestari` | verificarea respingerii (mai jos, la Învățarea din dovezi) |
+| Religia aleasă, momentul acordului și istoricul schimbărilor — **doar cu acordul tău** | `profiles`, `religion_history` | marcarea zilelor de sărbătoare ca zile libere |
+| Obiective (titluri, descrieri, note) | `objectives` | funcția principală |
+| Evenimente (titluri, descrieri) | `events` | calendar |
+| Notificările pe care ți le faci (titlu, mesaj, oră, zile, condiție) | `user_notifications` | ca telefonul tău să ți le arate |
+| Note zilnice | `daily_progress` | jurnal personal |
+
+### Date generate de utilizare
+
+| Dată | Unde | De ce |
+|---|---|---|
+| Progres zilnic: ce ai bifat și la ce oră | `daily_progress` | funcția principală |
+| Regimul (Încredere, Normal, Sub observație), cu ziua și motivul fiecărei schimbări. Se calculează în aplicație din zilele tale, fără nicio persoană și fără AI | `verifications` | istoria regimurilor, păstrată în jurnal |
+| Zilele duble, zilele libere câștigate, zilele recuperate sau iertate, săptămâna de probă, plusurile pierdute și redate, cu ziua fiecăreia | `verifications` | regulile aplicației, păstrate în jurnal |
+| Judecata sincerității: verdictul, scorul și semnele | `sinceritate` | mai jos, la Judecata sincerității |
+| Ce vede martorul (regimul, banca, zilele, intrările și ieșirile, scrise de aplicație) și de câte ori și când a fost deschis linkul | `martori` | linkul martorului (mai jos) |
+| Observarea folosirii: ecranele deschise, duratele, numărul de bife și de erori, fără texte | `observatii` | mai jos, la Observarea folosirii aplicației; 90 de zile |
+| Sesiuni de focus, doar cele vechi: FOCUS s-a scos pe 25 octombrie 2026, iar ele nu se mai colectează și nu se mai arată | `daily_progress` | rămân în progresul zilnic până la ștergerea contului |
+
+### Date tehnice
+
+| Dată | Unde | De ce | Reținută |
+|---|---|---|---|
+| Adresă IP | `rate_limits` | limitarea cererilor | 24 ore |
+| Adresă IP, browser | `abuse_logs` | apărare contra atacurilor | 90 zile |
+| Date pseudonimizate (HMAC cu cheie secretă) ale adresei IP, ale codului aleatoriu al aplicației și ale adresei de email, cu motivele fiecărei verificări anti-boți | `bot_signals` (parte a bazei de date pe care aplicația nu o poate citi) | oprirea conturilor create automat | 90 zile |
+| Atestarea de la crearea contului: aceleași date pseudonimizate | `antibot_attestations` | verificarea de dinaintea creării contului | 1 zi |
+| HMAC-ul unei adrese IP sau al codului unui dispozitiv blocat temporar; identificatorul unui cont banat | `ban_registry` | registrul blocărilor; ridicarea unui ban se adaugă ca rând nou | rândurile nu se șterg; o blocare temporară expiră după 24 de ore sau 7 zile |
+| Codul aleatoriu al aplicației | pe telefonul sau în browserul tău | numărarea conturilor noi de pe același dispozitiv | până la dezinstalare sau ștergerea datelor browserului |
+| Adresă IP | `owner_audit_log` | jurnal de acces al proprietarului | 90 zile |
+| Erori tehnice, platformă | `error_logs` | remedierea defecțiunilor | 30 zile |
+| Măsurători de performanță | `web_vitals`, `performance_logs` | optimizare | 30 zile |
+
+### Verificarea adresei de email
+
+La crearea contului, aplicația verifică dacă domeniul adresei tale de email
+(de exemplu `gmail.com`, **nu adresa întreagă**) poate primi email. Întrebarea
+merge la serviciul DNS public Cloudflare (`cloudflare-dns.com`), iar dacă acesta
+nu răspunde, la Google (`dns.google`). Rezultatul nu se păstrează.
+
+---
+
+## Ce NU colectăm
+
+- **Locație.** Aplicația nu cere și nu folosește GPS.
+- **Contacte, fotografii, microfon, cameră.**
+- **Date de plată.** Aplicația e gratuită; nu există procesare de plăți.
+- **Publicitate.** Nu există rețele publicitare, nici identificatori
+  de urmărire pentru reclame.
+- **Vânzare de date.** Nu vindem și nu închiriem date nimănui.
+
+⚠️ **Analytics de comportament**: codul conține infrastructură pentru
+evenimente de utilizare, dar **nu e conectată la niciun furnizor
+extern**. Evenimentele rămân în baza de date proprie, 30 de zile.
+
+### Religia: o categorie specială de date
+
+Religia e o dată sensibilă (GDPR, art. 9). O păstrăm **doar dacă bifezi
+acordul**, separat, la alegerea ei. Fără acord nu se salvează nimic, iar
+aplicația folosește doar duminicile și zilele libere legale.
+
+- Folosim religia la un singur lucru: ca în zilele ei de sărbătoare să fii
+  liber (rutinele nu apar, ziua nu e socotită ratată). Calculul se face pe
+  telefonul sau în browserul tău.
+- Păstrăm și istoricul schimbărilor (ce religie, de la ce zi), ca zilele
+  trecute să fie judecate după religia de atunci.
+- Poți retrage oricând acordul din **Contul meu → Religie și zile libere**:
+  religia și tot istoricul ei se șterg imediat.
+- Apare în exportul datelor și se șterge odată cu contul.
+
+### Verificarea anti-boți
+
+Ca să oprim conturile create automat, la crearea contului și la fiecare
+intrare aplicația face în fundal un mic calcul și verifică un câmp pe
+care un om nu-l vede. La crearea contului verificăm și ca formularul să
+nu fi fost trimis în mai puțin de 4 secunde. La intrare notăm dacă
+formularul a fost trimis în mai puțin de o secundă și jumătate; acesta e
+doar un semn slab și nu duce singur la nicio blocare.
+
+- Aplicația păstrează pe telefon (sau în browser) un **cod aleatoriu**,
+  făcut o singură dată. Nu spune nimic despre tine sau despre telefon; îl
+  folosim doar ca să numărăm conturile noi create de pe același
+  dispozitiv.
+- **Nu păstrăm adresa IP în clar** pentru această verificare, ci doar un
+  HMAC al ei, calculat cu o cheie secretă. Sunt date pseudonimizate: fără
+  cheie nu duc înapoi la adresă, dar le tratăm tot ca date personale. La
+  fel pentru codul aplicației și pentru adresa de email.
+- O adresă IP sau un dispozitiv cu încercări suspecte se **blochează
+  temporar** la crearea de conturi noi: 24 de ore, apoi 7 zile. De pe
+  același dispozitiv se pot crea cel mult două conturi în 24 de ore.
+  Intrarea într-un cont existent nu e atinsă de aceste blocări.
+- Doar semnele clare de bot (câmpul invizibil completat, un calcul
+  falsificat sau refolosit) pot duce la banarea permanentă a unui cont.
+  Semnele slabe (prea repede, fără calcul) doar se notează. Dacă ți s-a
+  întâmplat din greșeală, scrie-ne: banul se poate ridica.
+- Dacă verificarea te refuză, vezi doar un mesaj general. Motivul exact
+  rămâne în jurnal, ca să nu învățăm boții ce să repare.
+
+Temeiul: interesul legitim de securitate, Art. 6(1)(f). Semnalele se
+șterg după 90 de zile. La ștergerea contului, legătura semnalelor cu
+contul dispare. Registrul blocărilor nu se șterge: o blocare temporară
+expiră, iar ridicarea unui ban se adaugă ca rând nou.
+
+### Notificările de pe telefon
+
+- Aplicația nu îți trimite notificări de la ea. Sună doar notificările pe
+  care ți le faci tu, în **Contul meu → Setări → Notificări**.
+- Ele stau în contul tău (ca să le poți face și de pe web) și le vezi
+  doar tu. Le poți opri sau șterge oricând.
+- Se programează pe telefonul tău, în aplicația Android, și nu trec prin
+  niciun server de notificări: fără push și fără token de notificare. Pe
+  web și pe iPhone nu sună nimic.
+- Sună la ora aleasă de tine, inclusiv noaptea, și arată ce ai scris în
+  ele. Fără mesaj scris de tine, unele pun singure numele rutinei, al
+  task-urilor sau al evenimentului. Pe ecranul blocat, telefonul arată ce
+  scrie în notificare; poți ascunde conținutul din setările telefonului.
+
+### Martorul
+
+Din 12 noiembrie 2026 poți da unui om ales de tine un **link doar de citit**
+(Setări → Martorul). La a treia intrare sub observație, ieșirea cere un martor
+care a deschis linkul.
+
+- **Ce vede martorul:** numele sub care te vede (ales de tine), regimul,
+  banca și treapta de sub observație, de câte ori ai intrat, ultimele 14 zile
+  (ținută, neținută, tăcere, liberă) și perioadele de sub observație, cu felul
+  ieșirii. **Nu vede** dovezile, nimic din ce scrii, numele rutinelor, emailul
+  sau alte date ale contului.
+- **Cum:** linkul conține o cheie care se vede o singură dată, la creare. În
+  baza de date păstrăm doar amprenta ei (SHA-256), nu cheia. Oricine are
+  linkul vede pagina, fără cont, așa că îl trimiți doar omului ales.
+- **Ce se notează:** de câte ori și când a fost deschis linkul (fără cine l-a
+  deschis). Ca orice vizitator al site-ului, martorul trece prin Cloudflare
+  și prin Supabase (tabelul de mai jos).
+- **Cum oprești:** Setări → Martorul → Oprește. Un link oprit nu mai arată
+  nimic și nu se mai poate porni. Cel mult 3 linkuri active.
+- **Temeiul:** executarea contractului (art. 6 alin. (1) lit. b GDPR): e o
+  funcție pe care o alegi tu. Se șterge odată cu contul.
+
+---
+
+### Învățarea din dovezi
+
+Din 4 noiembrie 2026, aplicația învață din dovezi ca să nu mai respingă
+greșit răspunsuri adevărate. Fără AI: e o numărătoare.
+
+- **Ce se calculează:** o dată pe noapte, din dovezile acceptate și
+  neretrase din ultimele 180 de zile, baza de date numără cuvintele și cifrele
+  obișnuite pe fiecare fel de rutină (sport, citit, meditație…).
+- **Ce se păstrează:** doar cuvântul (sau unitatea și cifrele obișnuite),
+  felul rutinei și câți useri l-au folosit, și numai dacă **cel puțin 5 useri
+  diferiți** l-au folosit. Nu se păstrează textele, numele, cine a scris și
+  nicio legătură cu contul tău. Rezultatul e vizibil oricui în aplicație, la
+  Setări → Învățare.
+- **De ce și pe ce temei:** verificarea corectă a dovezilor, scopul aplicației;
+  interesul legitim (art. 6 alin. (1) lit. f GDPR), cu dreptul tău de opoziție
+  (art. 21).
+- **Cum oprești:** Setări → Învățare → „Nu folosi dovezile mele”. Dovezile tale
+  ies din calcul la următoarea recalculare (noaptea); la fel, la ștergerea
+  contului.
+- **Date despre sănătate:** dovezile pot conține, fără să le cerem, detalii
+  despre somn, apă sau suplimente. Ele intră în calcul doar ca numărătoare de
+  cuvinte la nivel de grup (minimum 5 useri), fără legătură cu tine. Dacă nu
+  vrei nici atât, oprește învățarea.
+- **Pe contul tău:** aplicația ține minte și cuvintele pe care le folosești des
+  la o rutină, calculate din propriile dovezi, doar pentru verificarea
+  dovezilor tale. Nu ajung la alți useri.
+- **„Respingerea e greșită”:** dacă apeși butonul sub o dovadă respinsă și
+  confirmi, textul acelei dovezi, întrebarea și numele rutinei ajung la echipa
+  CXR TO DO, care verifică respingerea. Dacă ai dreptate, cuvintele dovezii
+  intră pentru felul acelei rutine, pentru toți (fără textul și fără numele
+  tău). Textul se șterge la decizie; cele neverificate, după 90 de zile.
+  Temeiul: acordul tău, dat în momentul trimiterii.
+- **Numele rutinelor:** pentru felurile noi de rutine, se folosesc cuvintele
+  din numele rutinelor (de exemplu „chitară”). Se păstrează doar cuvântul-cheie
+  și cuvintele obișnuite din dovezi, dacă le folosesc cel puțin 5 useri.
+- **Umplutura:** frazele scurte („tot ce trebuia”) scrise de cel puțin 5 useri
+  în dovezile respinse ca umplutură sau retrase devin umplutură pentru toți. Se
+  păstrează doar fraza și câți useri, fără texte și fără cine.
+- Nu facem profilare și nici decizii automate cu efect juridic asupra ta.
+
+### Observarea folosirii aplicației
+
+Din 5 noiembrie 2026, aplicația (pe telefon și pe web) numără în tăcere cum
+este folosită, ca să fie mai rapidă, să găsim și să reparăm erorile și să
+oprim abuzul.
+
+- **Ce se numără:** ce ecrane deschizi (doar numele ecranului) și de câte ori,
+  cât durează încărcarea datelor (pe tabel: medie și maxim), câte bife și
+  dovezi faci (acceptate sau respinse) și câte erori apar (pe sursă).
+- **Ce NU se păstrează:** ce scrii (dovezi, notițe, nume de rutine), locația,
+  contactele sau alte aplicații.
+- **Cine vede:** doar echipa CXR TO DO (contul de owner), adunat pe zile; nu e
+  public și nu se vinde.
+- **Abuzul:** peste 100 de dovezi în 10 minute sau aceeași dovadă de 5 ori
+  într-o zi, de la același cont, nu se mai salvează, iar faptul (fără textul
+  dovezii) se notează în jurnalul de abuz.
+- **Cât păstrăm:** 90 de zile, apoi se șterg automat.
+- **De ce și pe ce temei:** funcționarea, viteza și securitatea aplicației;
+  interesul legitim (art. 6 alin. (1) lit. f GDPR), cu dreptul tău de opoziție
+  (art. 21).
+- **Cum oprești:** Setări → Învățare → Observarea → „Oprită”. Din acel moment
+  nu se mai trimite nimic (baza de date refuză oricum).
+- **Și la judecata sincerității** (mai jos): faptul că aplicația a fost deschisă
+  într-o zi poate contrazice un text care spune „n-am avut telefon sau internet”
+  în ziua aceea. Cu observarea oprită, acest semn nu există.
+- Nu facem profilare și nici decizii automate cu efect juridic asupra ta.
+
+### Judecata sincerității
+
+Din 5 noiembrie 2026, după o zi ratată, socoteala și explicația unei tăceri se
+judecă automat: sincer, nesigur sau nesincer.
+
+- **Cum:** fără AI, după reguli fixe, pe semne care se pot verifica: ce arată
+  aplicația pentru zilele acelea (bife, dovezi, task-uri bifate, dacă aplicația
+  a fost deschisă), detaliile concrete din text, asumarea, vina aruncată pe
+  alții, contradicțiile cu datele și scuzele repetate față de textele tale din
+  ultimele 45 de zile.
+- **Efectul, doar în aplicație:** un text sincer te iartă: ieși de sub
+  observație, zilele rămân în jurnal ca ratate, cu semnul IERTATĂ, iar prețul
+  pus de tine se plătește. Un text nesincer nu schimbă nimic. Nicio decizie nu
+  are efect juridic sau financiar.
+- **Cine citește:** când sistemul nu e sigur, textul (socoteala sau explicația)
+  îl citește ownerul aplicației și hotărăște; decizia lui ajustează regulile
+  (ponderile semnelor). Ecranul îți spune asta înainte să scrii.
+- **Unde:** judecata, scorul și semnele, în tabelul `sinceritate`; iertarea, în
+  jurnalul declarațiilor (`verifications`). Le vezi pe ale tale; nu se șterg
+  decât odată cu contul.
+- **Temeiul:** executarea contractului (art. 6 alin. (1) lit. b GDPR): e
+  regula aplicației pe care ai ales-o. Dacă nu ești de acord cu o judecată,
+  scrie-ne și o verifică un om (art. 22 alin. (3)).
+
+## Cui ajung datele
+
+| Serviciu | Ce primește | Unde |
+|---|---|---|
+| **Supabase** | toate datele aplicației (baza de date și conturile) | UE (Irlanda) |
+| **Cloudflare** | găzduirea site-ului, inclusiv pagina martorului: adresa IP și cererile fiecărui vizitator | global |
+| **GitHub** | APK-ul aplicației se descarcă de pe GitHub: adresa IP a celui care îl descarcă | SUA |
+| **Expo** | adresa IP și versiunea aplicației, când aplicația caută o actualizare | SUA |
+| **Cloudflare DNS, Google DNS** | doar domeniul adresei de email, la crearea contului | global |
+
+Raportarea externă a erorilor (Sentry) există în cod, dar **nu e pornită**:
+nu primește nimic. Erorile tehnice ajung doar în baza noastră (`error_logs`).
+
+Aplicația nu folosește inteligență artificială: nimic din ce scrii nu
+ajunge la un serviciu de AI.
+
+### Transferuri în afara UE
+
+Cloudflare, GitHub, Expo și Google sunt companii din SUA și pot prelucra
+aceste date (adresa IP, versiunea aplicației, domeniul emailului) în afara
+UE, în condițiile pe care le oferă clienților din UE (de regulă, clauzele
+contractuale standard ale Comisiei Europene sau cadrul UE-SUA de protecție
+a datelor). Datele aplicației (rutine, dovezi, jurnal) rămân în UE, la
+Supabase.
+
+---
+
+## Cât păstrăm datele
+
+**Datele tale de conținut** — rutine, obiective, progres — se
+păstrează cât timp ai contul. Nu le ștergem automat: sunt istoricul
+tău.
+
+**Datele tehnice** se șterg automat, la intervalele din tabelul de
+mai sus.
+
+La ștergerea contului, totul dispare imediat — cu două excepții,
+explicate mai jos.
+
+---
+
+## Drepturile tale
+
+### Descarcă-ți datele — Art. 20
+
+Deschide **Contul meu → Exportă**. Primești un fișier JSON cu tot ce
+ține de contul tău: profil (cu ora la care se termină ziua), rutine,
+task-uri, progres, jurnalul declarațiilor, istoricul religiei (dacă ai dat
+acordul), obiective, evenimente, notificări, martorii (fără cheia
+linkului), dovezile trimise la verificare, judecățile sincerității și
+observarea folosirii.
+
+### Șterge-ți contul — Art. 17
+
+Deschide **Contul meu → Șterge contul**. Aplicația te întreabă:
+„Sigur ștergi contul definitiv? Nu îți vei mai putea face cont
+niciodată pe această adresă de email." Doar dacă răspunzi DA, contul
+se șterge.
+
+Se șterg imediat: profilul, rutinele, task-urile, progresul, jurnalul
+declarațiilor, obiectivele, evenimentele, notificările tale, martorii
+(linkurile nu mai arată nimic), dovezile trimise la verificare, judecățile
+sincerității, observarea folosirii, jurnalele de erori, evenimentele de
+utilizare și contul de autentificare.
+
+**Nu e o dezactivare. Nu se poate anula.**
+
+### ⚠️ Prima excepție: amprenta adresei de email
+
+Adresa unui cont șters nu mai poate fi folosită pentru un cont nou,
+cum ai confirmat la ștergere. Pentru asta nu păstrăm adresa, ci doar o
+amprentă criptografică a ei (SHA-256), într-o parte a bazei de date pe
+care aplicația nu o poate citi. Amprenta nu e legată de nicio altă
+dată și se folosește doar la verificarea unui cont nou sau a unei
+schimbări de email.
+
+### ⚠️ A doua excepție: jurnalele de securitate
+
+Jurnalele de securitate (`abuse_logs`) nu se șterg — se
+**anonimizează**: legătura cu tine dispare, adresa IP rămâne 90 de
+zile.
+
+Motivul: dacă ștergerea contului ar șterge și urma unui atac, cineva
+ar putea curăța istoricul creând și ștergând conturi la nesfârșit.
+Temeiul e interesul legitim de securitate, Art. 6(1)(f).
+
+### Celelalte drepturi
+
+Rectificare, restricționare, opoziție, plângere la ANSPDCP
+*(www.dataprotection.ro)*. Scrie-ne la 1cxr.vision1@gmail.com.
+
+---
+
+## Securitate
+
+- Toate datele circulă criptat (HTTPS/TLS).
+- Fiecare rând din baza de date e protejat de politici care verifică
+  identitatea — nu poți citi datele altui utilizator.
+- Parolele sunt gestionate de Supabase Auth; nu le vedem niciodată.
+- Drepturile de proprietar se verifică în baza de date, la fiecare cerere;
+  un cont obișnuit nu și le poate da singur.
+
+⚠️ Nicio măsură nu e absolută. Dacă apare o breșă care îți afectează
+datele, te anunțăm — și notificăm ANSPDCP în 72 de ore, conform
+Art. 33.
+
+---
+
+## Copii
+
+Aplicația e doar pentru persoane de 18 ani sau mai mult: la crearea
+contului confirmi că ai împlinit 18 ani. Nu colectăm intenționat
+datele minorilor. Dacă afli că un minor ne-a furnizat date, scrie-ne
+și le ștergem.
+
+---
+
+## Modificări
+
+Dacă schimbăm ceva important, actualizăm data de sus și te anunțăm în
+aplicație înainte ca modificarea să intre în vigoare.
+
+---
+
+## Contact
+
+**CXR VISION S.R.L.**
+**CUI:** 52775956 · **Nr. Reg. Com.:** J2025082033009
+**Sediul:** Str. Pitar Moș nr. 27, Sector 1, București, cod 010452, România
+**Email:** 1cxr.vision1@gmail.com
+
+Pentru cereri privind datele, răspundem în cel mult 30 de zile.
+4:T5204,# Privacy Policy — CXR TO DO
+
+**Last updated:** 13 November 2026
+**Controller:** CXR VISION S.R.L., tax ID (CUI) 52775956, Trade Register no.
+J2025082033009, registered office at Str. Pitar Moș nr. 27, Sector 1,
+Bucharest, postcode 010452, Romania
+**Contact:** 1cxr.vision1@gmail.com
+
+> **This is an English translation.** The Romanian version
+> (`privacy-policy.md`) is the legal reference; if the two differ, the
+> Romanian version applies.
+
+> The text describes exactly what the app does today: the list of data is
+> taken from the database and the code, not written from memory. It hasn't
+> yet been reviewed by a lawyer.
+
+---
+
+## What data we collect
+
+### Data you give us
+
+| Data | Where | Why |
+|---|---|---|
+| Email address | `profiles` | sign-in, account recovery |
+| Name | `profiles` | display in the app |
+| Age confirmation (only the moment, not your age) | `profiles` | the app is for adults only |
+| Routines (names, descriptions, start day, time) | `routines` | core feature |
+| Tasks (title, description, day, time) | `tasks` | core feature |
+| The written proofs at check-off, follow-up checks, retractions and "didn't do it today" declarations | `verifications` | the journal of declarations: what you said you did |
+| Why you use the app, each week's sacrifice, the explanations for silent days, what you change after a week not kept, the price you set for a week not kept, the reason for giving up a task | `verifications` | the journal of declarations: what you committed to and how you explained it |
+| Under observation: the contract when you enter and your answer to it when you leave, each day's why, the weekly review signed with your name | `verifications` | the journal of declarations: what you committed to under observation |
+| The hour your day ends, the day it applies from and when you changed it | `profiles` | so ticks after midnight go into the day you chose |
+| The witness: the name they see you under (chosen by you), when you created and when you stopped the link | `martori` | the read-only link for a person you choose (below) |
+| Rejected proofs you send for review ("The rejection is wrong") | `contestari` | reviewing the rejection (below, under Learning from proofs) |
+| The religion you chose, the moment of consent and the history of changes — **only with your consent** | `profiles`, `religion_history` | marking holidays as days off |
+| Objectives (titles, descriptions, notes) | `objectives` | core feature |
+| Events (titles, descriptions) | `events` | calendar |
+| The notifications you create for yourself (title, message, time, days, condition) | `user_notifications` | so your phone can show them to you |
+| Daily notes | `daily_progress` | personal journal |
+
+### Data generated by use
+
+| Data | Where | Why |
+|---|---|---|
+| Daily progress: what you checked off and at what time | `daily_progress` | core feature |
+| The regime (Trust, Normal, Under observation), with the day and reason of each change. It's calculated in the app from your days, with no person and no AI involved | `verifications` | the history of regimes, kept in the journal |
+| Double days, earned days off, recovered or forgiven days, the probation week, pluses lost and given back, with the day of each | `verifications` | the app's rules, kept in the journal |
+| The sincerity judgment: the verdict, score and signs | `sinceritate` | below, under The sincerity judgment |
+| What the witness sees (your regime, bank, days, entries and exits, written by the app) and how many times and when the link was opened | `martori` | the witness link (below) |
+| Observation of use: screens opened, durations, number of ticks and errors, no texts | `observatii` | below, under Observation of how the app is used; 90 days |
+| Focus sessions, old ones only: FOCUS was removed on 25 October 2026, and they're no longer collected or shown | `daily_progress` | they remain in daily progress until the account is deleted |
+
+### Technical data
+
+| Data | Where | Why | Kept |
+|---|---|---|---|
+| IP address | `rate_limits` | rate limiting | 24 hours |
+| IP address, browser | `abuse_logs` | defense against attacks | 90 days |
+| Pseudonymized data (HMAC with a secret key) of the IP address, of the app's random code and of the email address, with the reasons of each anti-bot check | `bot_signals` (a part of the database the app can't read) | stopping automatically created accounts | 90 days |
+| The attestation at account creation: the same pseudonymized data | `antibot_attestations` | the check before the account is created | 1 day |
+| The HMAC of a temporarily blocked IP address or device code; the identifier of a banned account | `ban_registry` | the register of blocks; lifting a ban is added as a new row | rows aren't deleted; a temporary block expires after 24 hours or 7 days |
+| The app's random code | on your phone or in your browser | counting new accounts from the same device | until uninstall or clearing browser data |
+| IP address | `owner_audit_log` | owner access log | 90 days |
+| Technical errors, platform | `error_logs` | fixing defects | 30 days |
+| Performance measurements | `web_vitals`, `performance_logs` | optimization | 30 days |
+
+### Checking the email address
+
+When you create an account, the app checks whether the domain of your email
+address (for example `gmail.com`, **not the whole address**) can receive email.
+The question goes to Cloudflare's public DNS service (`cloudflare-dns.com`), and
+if it doesn't answer, to Google (`dns.google`). The result isn't kept.
+
+---
+
+## What we DON'T collect
+
+- **Location.** The app doesn't ask for or use GPS.
+- **Contacts, photos, microphone, camera.**
+- **Payment data.** The app is free; there's no payment processing.
+- **Advertising.** There are no ad networks and no tracking identifiers
+  for ads.
+- **Selling data.** We don't sell or rent data to anyone.
+
+⚠️ **Behavioral analytics**: the code contains infrastructure for usage
+events, but it's **not connected to any external provider**. Events
+stay in our own database for 30 days.
+
+### Religion: a special category of data
+
+Religion is sensitive data (GDPR, art. 9). We keep it **only if you
+tick the consent box**, separately, when you choose it. Without consent
+nothing is saved, and the app uses only Sundays and legal days off.
+
+- We use religion for one thing only: so that on its holidays you're
+  free (routines don't appear, the day isn't counted as missed). The
+  calculation is done on your phone or in your browser.
+- We also keep the history of changes (which religion, from which day),
+  so past days are judged by the religion you had then.
+- You can withdraw consent anytime from **My account → Religion and days
+  off**: the religion and its whole history are deleted immediately.
+- It appears in the data export and is deleted with the account.
+
+### The anti-bot check
+
+To stop automatically created accounts, when an account is created and
+at every sign-in the app does a small calculation in the background and
+checks a field a person can't see. At account creation we also check
+that the form wasn't submitted in under 4 seconds. At sign-in we note
+whether the form was submitted in under one and a half seconds; this is
+only a weak sign and never leads to a block on its own.
+
+- The app keeps a **random code** on the phone (or in the browser),
+  made once. It says nothing about you or the phone; we use it only to
+  count new accounts created from the same device.
+- **We don't keep the IP address in clear text** for this check, only an
+  HMAC of it, computed with a secret key. This is pseudonymized data:
+  without the key it doesn't lead back to the address, but we still treat
+  it as personal data. The same goes for the app's code and the email
+  address.
+- An IP address or a device with suspicious attempts is **temporarily
+  blocked** from creating new accounts: 24 hours, then 7 days. At most two
+  accounts can be created from the same device in 24 hours. Signing in to
+  an existing account isn't affected by these blocks.
+- Only clear bot signs (the invisible field filled in, a forged or reused
+  calculation) can lead to permanently banning an account. Weak signs (too
+  fast, no calculation) are only noted. If it happened to you by mistake,
+  write to us: the ban can be lifted.
+- If the check refuses you, you see only a general message. The exact
+  reason stays in the log, so we don't teach bots what to fix.
+
+Legal basis: the legitimate interest of security, Art. 6(1)(f). The
+signals are deleted after 90 days. When the account is deleted, the link
+between the signals and the account disappears. The register of blocks
+isn't deleted: a temporary block expires, and lifting a ban is added as
+a new row.
+
+### Notifications on the phone
+
+- The app doesn't send you notifications of its own. Only the
+  notifications you create yourself ring, in **My account → Settings →
+  Notifications**.
+- They're stored in your account (so you can also create them from the
+  web) and only you see them. You can turn them off or delete them anytime.
+- They're scheduled on your phone, in the Android app, and don't go
+  through any notification server: no push and no notification token. On
+  the web and on iPhone nothing rings.
+- They ring at the time you choose, including at night, and show what you
+  wrote in them. Without a message written by you, some fill in the name of
+  the routine, the tasks or the event. On the lock screen, the phone shows
+  what the notification says; you can hide the content in the phone's
+  settings.
+
+### The witness
+
+Since 12 November 2026 you can give a person you choose a **read-only link**
+(Settings → Witness). The third time under observation, getting out requires a
+witness who has opened the link.
+
+- **What the witness sees:** the name they see you under (chosen by you), your
+  regime, the bank and the step under observation, how many times you went in,
+  the last 14 days (kept, not kept, silence, free) and your periods under
+  observation, with how each one ended. They **don't see** your proofs,
+  anything you write, routine names, your email or other account data.
+- **How:** the link contains a key that is shown only once, when it is
+  created. In the database we keep only its fingerprint (SHA-256), not the key.
+  Anyone with the link sees the page, without an account, so send it only to
+  the person you chose.
+- **What is noted:** how many times and when the link was opened (not who
+  opened it). Like any visitor to the site, the witness goes through Cloudflare
+  and Supabase (table below).
+- **How to stop it:** Settings → Witness → Stop. A stopped link shows nothing
+  and can't be started again. At most 3 active links.
+- **Legal basis:** performance of the contract (Art. 6(1)(b) GDPR): it's a
+  feature you choose. It's deleted with the account.
+
+---
+
+### Learning from proofs
+
+Since 4 November 2026, the app learns from proofs so it stops wrongly
+rejecting genuine answers. No AI: it's a count.
+
+- **What is calculated:** once a night, from accepted, non-retracted proofs
+  of the last 180 days, the database counts the words and numbers that are
+  usual for each kind of routine (sport, reading, meditation…).
+- **What is kept:** only the word (or the unit and the usual numbers), the
+  kind of routine and how many users used it, and only if **at least 5
+  different users** used it. No texts, names, who wrote it or any link to your
+  account are kept. Anyone can see the result in the app, under Settings →
+  Learning.
+- **Why and on what basis:** correct verification of proofs, the purpose of
+  the app; legitimate interest (Art. 6(1)(f) GDPR), with your right to object
+  (Art. 21).
+- **How to stop it:** Settings → Learning → “Don't use my proofs”. Your proofs
+  leave the calculation at the next recalculation (at night); the same happens
+  when you delete your account.
+- **Health data:** proofs may contain, without us asking, details about sleep,
+  water or supplements. They only enter the calculation as group-level word
+  counts (at least 5 users), with no link to you. If you don't want even that,
+  turn learning off.
+- **On your account:** the app also remembers the words you often use for a
+  routine, calculated from your own proofs, only to verify your proofs. They
+  don't reach other users.
+- **“The rejection is wrong”:** if you tap the button under a rejected proof
+  and confirm, the text of that proof, the question and the routine's name go
+  to the CXR TO DO team, who review the rejection. If you're right, the proof's
+  words are added for that kind of routine, for everyone (without the text or
+  your name). The text is deleted on decision; unreviewed ones after 90 days.
+  Basis: your consent, given when you send it.
+- **Routine names:** for new kinds of routines, words from routine names are
+  used (for example “guitar”). Only the key word and the usual words from
+  proofs are kept, if at least 5 users use them.
+- **Filler:** short phrases (“all that was needed”) written by at least 5 users
+  in proofs rejected as filler or retracted become filler for everyone. Only
+  the phrase and how many users are kept, with no texts and no who.
+- We do no profiling and no automated decisions with legal effect on you.
+
+### Observation of how the app is used
+
+Since 5 November 2026, the app (on the phone and on the web) quietly counts
+how it is used, so that it gets faster, so that we can find and fix errors,
+and so that abuse is stopped.
+
+- **What is counted:** which screens you open (only the screen name) and how
+  often, how long loading takes (per table: average and maximum), how many
+  ticks and proofs you make (accepted or rejected) and how many errors occur
+  (by source).
+- **What is NOT kept:** what you write (proofs, notes, routine names), your
+  location, contacts or other apps.
+- **Who sees it:** only the CXR TO DO team (the owner account), grouped by
+  day; it is not public and not sold.
+- **Abuse:** more than 100 proofs in 10 minutes, or the same proof 5 times in
+  a day, from the same account, are no longer saved, and the event (without
+  the proof text) is noted in the abuse log.
+- **How long we keep it:** 90 days, then it is deleted automatically.
+- **Why and on what basis:** the app's functioning, speed and security;
+  legitimate interest (Art. 6(1)(f) GDPR), with your right to object (Art. 21).
+- **How to turn it off:** Settings → Learning → Observation → "Off". From then
+  on nothing is sent (the database refuses anyway).
+- **Also in the sincerity judgment** (below): the fact that the app was opened
+  on a day can contradict a text saying "I had no phone or internet" that day.
+  With observation off, this sign doesn't exist.
+- We do not do profiling or automated decisions with legal effect on you.
+
+### The sincerity judgment
+
+Since 5 November 2026, after a missed day, the reckoning and the explanation of
+a silence are judged automatically: sincere, unsure or not sincere.
+
+- **How:** without AI, by fixed rules, on signs that can be checked: what the
+  app shows for those days (checks, proofs, checked tasks, whether the app was
+  opened), the concrete details in the text, owning what happened, blame put on
+  others, contradictions with the data and excuses repeated from your texts of
+  the last 45 days.
+- **The effect, only inside the app:** a sincere text forgives you: you leave
+  observation, the days stay in the journal as missed, marked FORGIVEN, and the
+  price you set is still paid. A text that isn't sincere changes nothing. No
+  decision has a legal or financial effect.
+- **Who reads it:** when the system isn't sure, the text (the reckoning or the
+  explanation) is read by the app's owner, who decides; that decision adjusts
+  the rules (the weights of the signs). The screen tells you this before you
+  write.
+- **Where:** the judgment, its score and signs, in the `sinceritate` table; the
+  forgiveness, in the journal of statements (`verifications`). You can see
+  yours; they are deleted only with your account.
+- **Legal basis:** performance of the contract (Art. 6(1)(b) GDPR): it is the
+  rule of the app you chose. If you disagree with a judgment, write to us and a
+  person will review it (Art. 22(3)).
+
+## Who receives the data
+
+| Service | What it receives | Where |
+|---|---|---|
+| **Supabase** | all the app's data (the database and the accounts) | EU (Ireland) |
+| **Cloudflare** | hosting of the website, including the witness page: each visitor's IP address and requests | global |
+| **GitHub** | the app's APK is downloaded from GitHub: the IP address of whoever downloads it | USA |
+| **Expo** | the IP address and app version, when the app checks for an update | USA |
+| **Cloudflare DNS, Google DNS** | only the domain of the email address, when an account is created | global |
+
+External error reporting (Sentry) exists in the code but is **not turned on**:
+it receives nothing. Technical errors only reach our own database (`error_logs`).
+
+The app doesn't use artificial intelligence: nothing you write reaches
+an AI service.
+
+### Transfers outside the EU
+
+Cloudflare, GitHub, Expo and Google are US companies and may process this
+data (IP address, app version, email domain) outside the EU, under the terms
+they offer to EU customers (usually the European Commission's standard
+contractual clauses or the EU-US data privacy framework). The app's data
+(routines, proofs, journal) stays in the EU, at Supabase.
+
+---
+
+## How long we keep data
+
+**Your content data** — routines, objectives, progress — is kept as
+long as you have the account. We don't delete it automatically: it's
+your history.
+
+**Technical data** is deleted automatically, at the intervals in the
+table above.
+
+When the account is deleted, everything disappears immediately — with
+two exceptions, explained below.
+
+---
+
+## Your rights
+
+### Download your data — Art. 20
+
+Open **My account → Export**. You get a JSON file with everything tied
+to your account: profile (with the hour your day ends), routines, tasks,
+progress, the journal of declarations, the religion history (if you gave
+consent), objectives, events, notifications, the witnesses (without the
+link key), proofs sent for review, sincerity judgments and the observation
+of use.
+
+### Delete your account — Art. 17
+
+Open **My account → Delete account**. The app asks you: "Are you sure
+you want to delete your account permanently? You'll never be able to
+create an account with this email address again." Only if you answer
+YES is the account deleted.
+
+Deleted immediately: the profile, routines, tasks, progress, the
+journal of declarations, objectives, events, your notifications, the
+witnesses (the links no longer show anything), proofs sent for review,
+sincerity judgments, the observation of use, error logs, usage events and
+the authentication account.
+
+**It's not a deactivation. It can't be undone.**
+
+### ⚠️ First exception: the email address fingerprint
+
+The address of a deleted account can no longer be used for a new
+account, as you confirmed when deleting. For this we don't keep the
+address, only a cryptographic fingerprint of it (SHA-256), in a part of
+the database the app can't read. The fingerprint isn't linked to any
+other data and is used only when checking a new account or an email
+change.
+
+### ⚠️ Second exception: security logs
+
+Security logs (`abuse_logs`) aren't deleted — they're **anonymized**:
+the link to you disappears, the IP address stays for 90 days.
+
+The reason: if deleting the account also deleted the trace of an
+attack, someone could wipe the history by creating and deleting
+accounts endlessly. The legal basis is the legitimate interest of
+security, Art. 6(1)(f).
+
+### Your other rights
+
+Rectification, restriction, objection, complaint to ANSPDCP
+*(www.dataprotection.ro)*. Write to us at 1cxr.vision1@gmail.com.
+
+---
+
+## Security
+
+- All data travels encrypted (HTTPS/TLS).
+- Every row in the database is protected by policies that check
+  identity — you can't read another user's data.
+- Passwords are handled by Supabase Auth; we never see them.
+- Owner rights are checked in the database on every request; a regular
+  account can't grant them to itself.
+
+⚠️ No measure is absolute. If a breach affects your data, we'll tell
+you — and notify ANSPDCP within 72 hours, under Art. 33.
+
+---
+
+## Children
+
+The app is only for people aged 18 or over: when creating the account
+you confirm you're at least 18. We don't knowingly collect minors'
+data. If you learn that a minor has given us data, write to us and we'll
+delete it.
+
+---
+
+## Changes
+
+If we change something important, we update the date at the top and
+tell you in the app before the change takes effect.
+
+---
+
+## Contact
+
+**CXR VISION S.R.L.**
+**Tax ID (CUI):** 52775956 · **Trade Register no.:** J2025082033009
+**Registered office:** Str. Pitar Moș nr. 27, Sector 1, Bucharest, postcode 010452, Romania
+**Email:** 1cxr.vision1@gmail.com
+
+For data requests, we answer within 30 days at most.
+7:T36ed,.cxr-sky{position:fixed;inset:0;z-index:-1;overflow:hidden;pointer-events:none;background:radial-gradient(ellipse at 50% 115%,rgba(0,240,255,0.07),transparent 62%),radial-gradient(ellipse at 15% -10%,rgba(43,140,255,0.06),transparent 55%),#000}.cxr-sky i{position:absolute;left:0;top:0;border-radius:50%;background:transparent;will-change:transform}.cxr-sky i::after{content:'';position:absolute;left:0;top:1200px;width:inherit;height:inherit;border-radius:50%;box-shadow:inherit}.cxr-sky .s1{width:1px;height:1px;box-shadow:183px 294px rgba(255,255,255,0.7), 332px 333px rgba(255,255,255,0.7), 397px 273px rgba(255,255,255,0.7), 111px 1082px rgba(255,255,255,0.7), 520px 1084px rgba(255,255,255,0.7), 1041px 234px rgba(255,255,255,0.7), 365px 927px rgba(255,255,255,0.7), 387px 665px rgba(255,255,255,0.7), 1026px 366px rgba(255,255,255,0.7), 640px 657px rgba(255,255,255,0.7), 931px 695px rgba(255,255,255,0.7), 928px 419px rgba(255,255,255,0.7), 497px 1082px rgba(255,255,255,0.7), 240px 60px rgba(255,255,255,0.7), 151px 637px rgba(255,255,255,0.7), 446px 1070px rgba(255,255,255,0.7), 988px 464px rgba(255,255,255,0.7), 232px 815px rgba(255,255,255,0.7), 746px 82px rgba(255,255,255,0.7), 174px 993px rgba(255,255,255,0.7), 264px 400px rgba(255,255,255,0.7), 580px 537px rgba(255,255,255,0.7), 94px 1182px rgba(255,255,255,0.7), 222px 694px rgba(255,255,255,0.7), 431px 891px rgba(255,255,255,0.7), 473px 980px rgba(255,255,255,0.7), 35px 1012px rgba(255,255,255,0.7), 339px 81px rgba(255,255,255,0.7), 275px 1034px rgba(255,255,255,0.7), 220px 828px rgba(255,255,255,0.7), 223px 1073px rgba(255,255,255,0.7), 212px 717px rgba(255,255,255,0.7), 257px 361px rgba(255,255,255,0.7), 675px 117px rgba(255,255,255,0.7), 116px 441px rgba(255,255,255,0.7), 361px 1050px rgba(255,255,255,0.7), 873px 107px rgba(255,255,255,0.7), 727px 512px rgba(255,255,255,0.7), 459px 659px rgba(255,255,255,0.7), 1160px 915px rgba(255,255,255,0.7), 1012px 1186px rgba(255,255,255,0.7), 721px 849px rgba(255,255,255,0.7), 503px 981px rgba(255,255,255,0.7), 143px 1099px rgba(255,255,255,0.7), 195px 249px rgba(255,255,255,0.7), 1097px 615px rgba(255,255,255,0.7), 804px 118px rgba(255,255,255,0.7), 660px 742px rgba(255,255,255,0.7), 752px 1103px rgba(255,255,255,0.7), 1165px 577px rgba(255,255,255,0.7), 1136px 680px rgba(255,255,255,0.7), 1011px 243px rgba(255,255,255,0.7), 563px 1067px rgba(255,255,255,0.7), 563px 274px rgba(255,255,255,0.7), 0px 715px rgba(255,255,255,0.7), 719px 1089px rgba(255,255,255,0.7), 708px 491px rgba(255,255,255,0.7), 350px 561px rgba(255,255,255,0.7), 353px 695px rgba(255,255,255,0.7), 834px 920px rgba(255,255,255,0.7), 68px 392px rgba(255,255,255,0.7), 3px 836px rgba(255,255,255,0.7), 401px 1026px rgba(255,255,255,0.7), 906px 359px rgba(255,255,255,0.7), 743px 94px rgba(255,255,255,0.7), 998px 468px rgba(255,255,255,0.7), 880px 157px rgba(255,255,255,0.7), 1161px 828px rgba(255,255,255,0.7), 401px 798px rgba(255,255,255,0.7), 786px 191px rgba(255,255,255,0.7), 1119px 786px rgba(255,255,255,0.7), 893px 339px rgba(255,255,255,0.7), 228px 1144px rgba(255,255,255,0.7), 133px 1055px rgba(255,255,255,0.7), 1019px 247px rgba(255,255,255,0.7), 599px 1072px rgba(255,255,255,0.7), 322px 828px rgba(255,255,255,0.7), 996px 982px rgba(255,255,255,0.7), 1044px 124px rgba(255,255,255,0.7), 600px 1026px rgba(255,255,255,0.7), 1182px 1151px rgba(255,255,255,0.7), 139px 511px rgba(255,255,255,0.7), 906px 581px rgba(255,255,255,0.7), 609px 870px rgba(255,255,255,0.7), 1105px 120px rgba(255,255,255,0.7), 246px 34px rgba(255,255,255,0.7), 123px 1094px rgba(255,255,255,0.7), 946px 1153px rgba(255,255,255,0.7), 368px 237px rgba(255,255,255,0.7), 631px 293px rgba(255,255,255,0.7), 732px 714px rgba(255,255,255,0.7), 1153px 683px rgba(255,255,255,0.7), 149px 182px rgba(255,255,255,0.7), 174px 492px rgba(255,255,255,0.7), 895px 909px rgba(255,255,255,0.7), 223px 1063px rgba(255,255,255,0.7), 37px 913px rgba(255,255,255,0.7), 713px 1168px rgba(255,255,255,0.7), 651px 889px rgba(255,255,255,0.7), 374px 761px rgba(255,255,255,0.7), 457px 997px rgba(255,255,255,0.7), 720px 1052px rgba(255,255,255,0.7), 170px 1015px rgba(255,255,255,0.7), 668px 333px rgba(255,255,255,0.7), 532px 897px rgba(255,255,255,0.7), 998px 1154px rgba(255,255,255,0.7), 451px 876px rgba(255,255,255,0.7), 877px 1100px rgba(255,255,255,0.7), 26px 1118px rgba(255,255,255,0.7), 732px 545px rgba(255,255,255,0.7), 948px 395px rgba(255,255,255,0.7), 350px 1158px rgba(255,255,255,0.7), 1060px 162px rgba(255,255,255,0.7), 1151px 1073px rgba(255,255,255,0.7), 151px 675px rgba(255,255,255,0.7), 1px 50px rgba(255,255,255,0.7), 837px 1141px rgba(255,255,255,0.7), 1171px 1174px rgba(255,255,255,0.7), 520px 613px rgba(255,255,255,0.7), 1093px 1149px rgba(255,255,255,0.7), 213px 747px rgba(255,255,255,0.7), 887px 102px rgba(255,255,255,0.7), 1192px 1064px rgba(255,255,255,0.7), 299px 800px rgba(255,255,255,0.7), 448px 785px rgba(255,255,255,0.7), 926px 1087px rgba(255,255,255,0.7), 908px 673px rgba(255,255,255,0.7), 361px 510px rgba(255,255,255,0.7), 941px 797px rgba(255,255,255,0.7), 342px 584px rgba(255,255,255,0.7), 780px 92px rgba(255,255,255,0.7), 1002px 26px rgba(255,255,255,0.7), 2px 794px rgba(255,255,255,0.7), 659px 284px rgba(255,255,255,0.7), 988px 6px rgba(255,255,255,0.7), 149px 48px rgba(255,255,255,0.7), 756px 1067px rgba(255,255,255,0.7), 1070px 535px rgba(255,255,255,0.7), 1192px 846px rgba(255,255,255,0.7), 166px 345px rgba(255,255,255,0.7), 959px 937px rgba(255,255,255,0.7), 388px 1044px rgba(255,255,255,0.7), 284px 1120px rgba(255,255,255,0.7), 846px 861px rgba(255,255,255,0.7), 149px 1112px rgba(255,255,255,0.7), 658px 1046px rgba(255,255,255,0.7), 972px 93px rgba(255,255,255,0.7), 663px 603px rgba(255,255,255,0.7), 1172px 125px rgba(255,255,255,0.7), 146px 44px rgba(255,255,255,0.7), 980px 1157px rgba(255,255,255,0.7), 588px 1049px rgba(255,255,255,0.7), 653px 251px rgba(255,255,255,0.7), 662px 372px rgba(255,255,255,0.7), 250px 499px rgba(255,255,255,0.7), 766px 1095px rgba(255,255,255,0.7), 718px 959px rgba(255,255,255,0.7), 1192px 1099px rgba(255,255,255,0.7), 82px 387px rgba(255,255,255,0.7), 269px 956px rgba(255,255,255,0.7), 1115px 1135px rgba(255,255,255,0.7), 461px 1027px rgba(255,255,255,0.7), 701px 111px rgba(255,255,255,0.7), 62px 1027px rgba(255,255,255,0.7), 1142px 333px rgba(255,255,255,0.7), 498px 937px rgba(255,255,255,0.7), 735px 45px rgba(255,255,255,0.7), 1177px 706px rgba(255,255,255,0.7), 632px 697px rgba(255,255,255,0.7), 62px 1072px rgba(255,255,255,0.7), 912px 740px rgba(255,255,255,0.7), 349px 460px rgba(255,255,255,0.7), 358px 824px rgba(255,255,255,0.7), 510px 765px rgba(255,255,255,0.7), 921px 522px rgba(255,255,255,0.7), 699px 937px rgba(255,255,255,0.7), 208px 1033px rgba(255,255,255,0.7), 968px 277px rgba(255,255,255,0.7), 722px 482px rgba(255,255,255,0.7), 726px 446px rgba(255,255,255,0.7), 186px 863px rgba(255,255,255,0.7), 1167px 1049px rgba(255,255,255,0.7), 1070px 275px rgba(255,255,255,0.7), 794px 1007px rgba(255,255,255,0.7), 201px 171px rgba(255,255,255,0.7), 332px 957px rgba(255,255,255,0.7), 491px 207px rgba(255,255,255,0.7), 417px 277px rgba(255,255,255,0.7), 435px 3px rgba(255,255,255,0.7), 496px 100px rgba(255,255,255,0.7), 1134px 1199px rgba(255,255,255,0.7), 414px 811px rgba(255,255,255,0.7), 918px 633px rgba(255,255,255,0.7), 1037px 867px rgba(255,255,255,0.7), 440px 209px rgba(255,255,255,0.7), 797px 57px rgba(255,255,255,0.7), 310px 332px rgba(255,255,255,0.7), 856px 647px rgba(255,255,255,0.7), 348px 197px rgba(255,255,255,0.7), 926px 296px rgba(255,255,255,0.7), 828px 770px rgba(255,255,255,0.7), 576px 52px rgba(255,255,255,0.7), 603px 981px rgba(255,255,255,0.7), 483px 506px rgba(255,255,255,0.7), 839px 118px rgba(255,255,255,0.7), 396px 681px rgba(255,255,255,0.7), 621px 279px rgba(255,255,255,0.7), 478px 685px rgba(255,255,255,0.7), 829px 671px rgba(255,255,255,0.7), 748px 956px rgba(255,255,255,0.7), 3px 457px rgba(255,255,255,0.7), 229px 412px rgba(255,255,255,0.7), 1062px 731px rgba(255,255,255,0.7), 127px 716px rgba(255,255,255,0.7), 179px 998px rgba(255,255,255,0.7), 1058px 580px rgba(255,255,255,0.7), 374px 747px rgba(255,255,255,0.7), 21px 161px rgba(255,255,255,0.7), 373px 1113px rgba(255,255,255,0.7), 136px 195px rgba(255,255,255,0.7), 833px 786px rgba(255,255,255,0.7), 1040px 388px rgba(255,255,255,0.7), 1074px 919px rgba(255,255,255,0.7), 224px 623px rgba(255,255,255,0.7), 787px 180px rgba(255,255,255,0.7), 1094px 391px rgba(255,255,255,0.7), 1043px 647px rgba(255,255,255,0.7), 476px 1194px rgba(255,255,255,0.7), 1163px 584px rgba(255,255,255,0.7), 516px 31px rgba(255,255,255,0.7), 366px 1128px rgba(255,255,255,0.7), 906px 144px rgba(255,255,255,0.7), 1182px 73px rgba(255,255,255,0.7), 450px 594px rgba(255,255,255,0.7), 783px 1033px rgba(255,255,255,0.7), 151px 603px rgba(255,255,255,0.7), 157px 697px rgba(255,255,255,0.7), 170px 755px rgba(255,255,255,0.7), 575px 397px rgba(255,255,255,0.7), 55px 754px rgba(255,255,255,0.7), 217px 629px rgba(255,255,255,0.7), 555px 533px rgba(255,255,255,0.7), 1199px 715px rgba(255,255,255,0.7), 116px 607px rgba(255,255,255,0.7), 560px 275px rgba(255,255,255,0.7), 369px 581px rgba(255,255,255,0.7), 498px 295px rgba(255,255,255,0.7), 857px 1120px rgba(255,255,255,0.7), 383px 582px rgba(255,255,255,0.7), 422px 1063px rgba(255,255,255,0.7), 214px 258px rgba(255,255,255,0.7), 458px 216px rgba(255,255,255,0.7), 1075px 736px rgba(255,255,255,0.7), 287px 27px rgba(255,255,255,0.7), 75px 1145px rgba(255,255,255,0.7), 235px 24px rgba(255,255,255,0.7), 70px 897px rgba(255,255,255,0.7), 1020px 695px rgba(255,255,255,0.7), 1158px 656px rgba(255,255,255,0.7), 1088px 949px rgba(255,255,255,0.7), 1008px 114px rgba(255,255,255,0.7), 151px 522px rgba(255,255,255,0.7), 220px 623px rgba(255,255,255,0.7), 1189px 6px rgba(255,255,255,0.7), 1063px 418px rgba(255,255,255,0.7), 744px 1033px rgba(255,255,255,0.7), 836px 64px rgba(255,255,255,0.7), 1051px 951px rgba(255,255,255,0.7), 686px 346px rgba(255,255,255,0.7), 782px 455px rgba(255,255,255,0.7), 933px 937px rgba(255,255,255,0.7), 295px 357px rgba(255,255,255,0.7), 787px 889px rgba(255,255,255,0.7), 690px 352px rgba(255,255,255,0.7), 578px 209px rgba(255,255,255,0.7), 879px 1193px rgba(255,255,255,0.7), 1096px 938px rgba(255,255,255,0.7), 104px 318px rgba(255,255,255,0.7), 1168px 623px rgba(255,255,255,0.7), 100px 104px rgba(255,255,255,0.7), 447px 932px rgba(255,255,255,0.7), 286px 794px rgba(255,255,255,0.7), 596px 579px rgba(255,255,255,0.7), 920px 278px rgba(255,255,255,0.7), 489px 245px rgba(255,255,255,0.7), 435px 588px rgba(255,255,255,0.7), 1026px 491px rgba(255,255,255,0.7), 511px 397px rgba(255,255,255,0.7), 931px 260px rgba(255,255,255,0.7), 822px 636px rgba(255,255,255,0.7), 1125px 151px rgba(255,255,255,0.7), 311px 97px rgba(255,255,255,0.7), 1162px 1039px rgba(255,255,255,0.7), 1116px 796px rgba(255,255,255,0.7), 694px 976px rgba(255,255,255,0.7), 123px 1132px rgba(255,255,255,0.7), 294px 1147px rgba(255,255,255,0.7), 523px 1070px rgba(255,255,255,0.7), 868px 1031px rgba(255,255,255,0.7), 77px 886px rgba(255,255,255,0.7);animation:cxr-sky-up 300s linear infinite}.cxr-sky .s2{width:2px;height:2px;box-shadow:560px 594px #8cf2ff, 398px 675px #8cf2ff, 366px 330px #8cf2ff, 447px 364px #8cf2ff, 855px 796px #8cf2ff, 165px 244px #8cf2ff, 558px 62px #8cf2ff, 1008px 1024px #8cf2ff, 820px 432px #8cf2ff, 450px 992px #8cf2ff, 1075px 726px #8cf2ff, 889px 470px #8cf2ff, 218px 1059px #8cf2ff, 1105px 675px #8cf2ff, 445px 744px #8cf2ff, 373px 134px #8cf2ff, 171px 1058px #8cf2ff, 12px 39px #8cf2ff, 491px 145px #8cf2ff, 583px 846px #8cf2ff, 192px 611px #8cf2ff, 812px 526px #8cf2ff, 221px 207px #8cf2ff, 326px 70px #8cf2ff, 234px 752px #8cf2ff, 1180px 174px #8cf2ff, 394px 807px #8cf2ff, 773px 527px #8cf2ff, 292px 809px #8cf2ff, 15px 165px #8cf2ff, 833px 92px #8cf2ff, 828px 33px #8cf2ff, 1134px 847px #8cf2ff, 306px 548px #8cf2ff, 1028px 123px #8cf2ff, 402px 985px #8cf2ff, 437px 495px #8cf2ff, 421px 572px #8cf2ff, 439px 614px #8cf2ff, 1117px 546px #8cf2ff, 1189px 687px #8cf2ff, 1062px 1010px #8cf2ff, 660px 127px #8cf2ff, 941px 21px #8cf2ff, 935px 550px #8cf2ff, 1072px 1052px #8cf2ff, 466px 613px #8cf2ff, 24px 864px #8cf2ff, 122px 1175px #8cf2ff, 759px 146px #8cf2ff, 1194px 901px #8cf2ff, 409px 778px #8cf2ff, 1115px 819px #8cf2ff, 452px 183px #8cf2ff, 584px 707px #8cf2ff, 559px 543px #8cf2ff, 1060px 81px #8cf2ff, 547px 715px #8cf2ff, 66px 853px #8cf2ff, 673px 821px #8cf2ff, 191px 1051px #8cf2ff, 36px 489px #8cf2ff, 614px 240px #8cf2ff, 937px 1069px #8cf2ff, 1013px 1074px #8cf2ff, 416px 1154px #8cf2ff, 619px 101px #8cf2ff, 728px 161px #8cf2ff, 578px 354px #8cf2ff, 153px 1048px #8cf2ff, 937px 663px #8cf2ff, 959px 1005px #8cf2ff, 1049px 742px #8cf2ff, 299px 1190px #8cf2ff, 362px 1140px #8cf2ff, 170px 608px #8cf2ff, 980px 746px #8cf2ff, 5px 816px #8cf2ff, 725px 263px #8cf2ff, 1021px 1000px #8cf2ff, 868px 1147px #8cf2ff, 1042px 710px #8cf2ff, 731px 739px #8cf2ff, 245px 1145px #8cf2ff, 65px 651px #8cf2ff, 226px 214px #8cf2ff, 433px 419px #8cf2ff, 1025px 977px #8cf2ff, 555px 306px #8cf2ff, 679px 994px #8cf2ff;animation:cxr-sky-up 420s linear infinite}.cxr-sky .s3{width:3px;height:3px;box-shadow:434px 70px #ffffff, 73px 89px #ffffff, 85px 512px #ffffff, 1093px 129px #ffffff, 1056px 442px #ffffff, 1185px 879px #ffffff, 713px 509px #ffffff, 712px 62px #ffffff, 1161px 283px #ffffff, 273px 667px #ffffff, 201px 1180px #ffffff, 325px 1144px #ffffff, 1118px 143px #ffffff, 218px 163px #ffffff, 114px 932px #ffffff, 1176px 71px #ffffff, 1161px 561px #ffffff, 53px 259px #ffffff, 484px 752px #ffffff, 1129px 276px #ffffff, 1136px 237px #ffffff, 239px 291px #ffffff, 266px 768px #ffffff, 600px 375px #ffffff, 53px 17px #ffffff, 1160px 791px #ffffff, 30px 732px #ffffff, 109px 113px #ffffff;animation:cxr-sky-up 600s linear infinite,cxr-sky-tw 7s ease-in-out infinite alternate}@keyframes cxr-sky-up{from{transform:translateY(0)}to{transform:translateY(-1200px)}}@keyframes cxr-sky-tw{from{opacity:1}to{opacity:0.45}}@media (prefers-reduced-motion:reduce){.cxr-sky i{animation:none}}d:T539,
+@keyframes cxr-fade-in {
+  from { opacity: 0; }
+  to   { opacity: 1; }
+}
+@keyframes cxr-slide-in-right {
+  from { opacity: 0; transform: translateX(16px); }
+  to   { opacity: 1; transform: translateX(0); }
+}
+@keyframes cxr-slide-in-up {
+  from { opacity: 0; transform: translateY(16px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+@keyframes cxr-scale-in {
+  from { opacity: 0; transform: scale(0.96); }
+  to   { opacity: 1; transform: scale(1); }
+}
+@keyframes cxr-pulse {
+  0%, 100% { transform: scale(1); }
+  50%      { transform: scale(1.04); }
+}
+@keyframes cxr-shimmer {
+  from { background-position: 200% 0; }
+  to   { background-position: -200% 0; }
+}
+@keyframes cxr-shake {
+  0%, 100%      { transform: translateX(0); }
+  20%, 60%      { transform: translateX(-4px); }
+  40%, 80%      { transform: translateX(4px); }
+}
+@keyframes cxr-spin {
+  to { transform: rotate(360deg); }
+}
+@keyframes cxr-glow {
+  0%, 100% { box-shadow: 0 0 8px currentColor; }
+  50%      { box-shadow: 0 0 18px currentColor; }
+}
+
+/* Preferința sistemului are prioritate asupra oricărei animații. */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+0:["RKIIdvmglv2z79WZBpt9X",[[["",{"children":["confidentialitate",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["confidentialitate",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"ro":"$3","en":"$4"}],null],null],null]},[null,["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children","confidentialitate","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/0548204f24e7cf4d.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"ro","suppressHydrationWarning":true,"className":"__variable_10ea0f __variable_1e69c2 __variable_bb2e19","children":[["$","head",null,{"children":[[["$","link",null,{"rel":"preconnect","href":"https://tpbljjcofxrdudrkdsel.supabase.co","crossOrigin":"anonymous"}],["$","link",null,{"rel":"dns-prefetch","href":"https://tpbljjcofxrdudrkdsel.supabase.co"}]],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"#nl-badge-frame{display:none!important}"}}],["$","script",null,{"dangerouslySetInnerHTML":{"__html":"try{var l=localStorage.getItem('cxr-lang');var d=document.documentElement;d.setAttribute('data-lang',l==='en'||l==='ro'?l:'none');if(l==='en')d.lang='en'}catch(e){}"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"html[data-lang=\"en\"]:not([data-lang-ready]) body,html[data-lang=\"none\"]:not([data-lang-ready]) body{visibility:hidden}"}}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$7"}}]]}],["$","body",null,{"style":{"margin":0,"background":"#000","color":"#e6f7fa","fontFamily":"var(--font-rajdhani), system-ui, sans-serif","minHeight":"100vh"},"children":[["$","div",null,{"className":"cxr-sky","aria-hidden":"true","children":[["$","i",null,{"className":"s1"}],["$","i",null,{"className":"s2"}],["$","i",null,{"className":"s3"}]]}],["$","$L5",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$8","errorStyles":[],"errorScripts":[],"template":["$","$L6",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","$L9",null,{}],"notFoundStyles":[]}],["$","$La",null,{}],["$","$Lb",null,{}],["$","$Lc",null,{}],["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$d"}}],["$","$Le",null,{}],["$","$Lf",null,{}],["$","$L10",null,{}],["$","$L11",null,{}],["$","$L12",null,{}],["$","$L13",null,{}]]}]]}]],null],null],["$L14",null]]]]
+14:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1, maximum-scale=5, viewport-fit=cover, interactive-widget=resizes-content"}],["$","meta","1",{"name":"theme-color","content":"#000000"}],["$","meta","2",{"charSet":"utf-8"}],["$","title","3",{"children":"Politica de confidențialitate — CXR TO DO"}],["$","meta","4",{"name":"description","content":"Ce date colectăm, cui ajung, cât le păstrăm și cum îți exerciți drepturile."}],["$","meta","5",{"name":"application-name","content":"CXR TO DO"}],["$","link","6",{"rel":"manifest","href":"/manifest.json","crossOrigin":"use-credentials"}],["$","meta","7",{"name":"robots","content":"noindex, nofollow"}],["$","meta","8",{"name":"apple-mobile-web-app-capable","content":"yes"}],["$","meta","9",{"name":"apple-mobile-web-app-title","content":"CXR TO DO"}],["$","meta","10",{"name":"apple-mobile-web-app-status-bar-style","content":"black-translucent"}],["$","link","11",{"rel":"icon","href":"/icons/favicon-32.png","sizes":"32x32","type":"image/png"}],["$","link","12",{"rel":"apple-touch-icon","href":"/icons/apple-touch-icon.png","sizes":"180x180"}],["$","meta","13",{"name":"next-size-adjust"}]]
+1:null
